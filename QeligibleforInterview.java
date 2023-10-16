@@ -74,8 +74,6 @@ public class QeligibleforInterview {
                 System.out.println("your experience is less than " + isexperience + " year");
             }
             
-            
-            
         }
 
     }

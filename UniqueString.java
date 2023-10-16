@@ -45,7 +45,7 @@ public class UniqueString {
     
         System.out.print("Enter any string : ");
         Scanner takeinput = new Scanner(System.in);
-        String input = takeinput.next();
+        String input = takeinput.nextLine();
 
         takeinput.close();
         char unique = firstUniqChar(input);

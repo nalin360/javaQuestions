@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class ReverseString {
 
     public String revString(String str){
-        if (str.isEmpty()){
+        if (str.trim().isEmpty()){
             // If the input string is empty, return it
             System.out.println("Empty String");
             return str;
@@ -18,13 +18,13 @@ public class ReverseString {
     }
     public static void main(String[] args) {
         Scanner sc1 = new Scanner(System.in);
-        System.out.println("Enter a string: ");
+        System.out.print("Enter a string: ");
         String str = sc1.next();
 
         // Call the revString method to reverse the input string
         ReverseString revobj = new ReverseString();
         String newStr = revobj.revString(str);
-        
+
         System.out.println(newStr);
         sc1.close();
 

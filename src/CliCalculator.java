@@ -1,3 +1,7 @@
+
+
+
+package src;
 import java.util.Scanner;
 /* 
  * Name : Nalin Sahani 

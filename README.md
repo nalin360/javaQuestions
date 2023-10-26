@@ -4,13 +4,17 @@ MCA
 
 ---
 
+# Date: 26-10-2023. 
+
+Write a Java program to generate the Fibonacci sequence. The program should take an integer 'n' as input and display the Fibonacci sequence up to the 'n'-th term.
+
+---
+
 # Date: 19-10-2023.
 
  Write a Java program to check whether a given word or phrase is a palindrome or not. A palindrome is a word, phrase, number.
 
 ---
-
-
 
 # Date: 20-10-2023.
 

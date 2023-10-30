@@ -4,7 +4,29 @@ MCA
 
 ---
 
-# Date: 26-10-2023. 
+
+
+# Date: 30-10-2023. 
+
+WAP to Determine if a given year is a leap year.
+
+---
+
+
+
+# Date: 28-10-2023.
+
+WPA to Determine if a given number is prime or not.
+
+---
+
+# Date: 27-10-2023.
+
+WAP to Convert a binary number to its decimal equivalent
+
+---
+
+# Date: 26-10-2023.
 
 Write a Java program to generate the Fibonacci sequence. The program should take an integer 'n' as input and display the Fibonacci sequence up to the 'n'-th term.
 

@@ -3,6 +3,12 @@ package src;
 import java.math.BigInteger;
 import java.util.Scanner;
 
+/* 
+ * # Date: 01-11-2023
+ * WAP to Handle factorials of large numbers using BigInteger.
+ * 
+ */
+
 public class BigIntergerFactorial {
 
     static int takeInput(){

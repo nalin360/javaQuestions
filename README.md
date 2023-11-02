@@ -4,13 +4,19 @@ MCA
 
 ---
 
-# Date: 01-11-2023
+# Date: 02-11-2023.
 
-WAP to Handle factorials of large numbers using BigInteger.
+Write a program to print pyramid pattern using loop
 
 ---
 
 
+
+# Date: 01-11-2023.
+
+WAP to Handle factorials of large numbers using BigInteger.
+
+---
 
 # Date: 30-10-2023.
 
